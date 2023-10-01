@@ -1,20 +1,13 @@
 <h1 align="left">Hey, I'm Kareem</h1>
 <h3 align="left">A passionate Backend Engineer from Egypt</h3>
 
-- 🔭 I’m currently working on a [Laravel e-commerce application](https://github.com/kareemaladawy/laravel-ecommerce-application.)
-
 - 👨‍💻 All of my projects are available at [https://github.com/kareemaladawy](https://github.com/kareemaladawy)
 
 - 💬 Ask me about **Software Engineering, Backend development, Laravel**
 
-- 📫 How to reach me **aladawykareem@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/kareemaladawy/](https://www.linkedin.com/in/kareemaladawy/)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kareemaladawy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kareemaladawy" height="30" width="40" /></a>
-<a href="https://www.behance.net/karem2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="karem2" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kareemaladawy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kareemaladawy" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
