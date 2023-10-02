@@ -1,5 +1,5 @@
 <h1 align="left">Hey, I'm Kareem Aladawy</h1>
-<h3 align="left">A passionate Backend Engineer from Egypt</h3>
+<h3 align="left">A passionate Backend Developer</h3>
 
 - 💬 Ask me about **Software Engineering, Backend development, Laravel**
 
