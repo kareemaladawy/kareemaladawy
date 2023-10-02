@@ -1,8 +1,6 @@
 <h1 align="left">Hey, I'm Kareem Aladawy</h1>
 <h3 align="left">A passionate Backend Engineer from Egypt</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/kareemaladawy](https://github.com/kareemaladawy)
-
 - 💬 Ask me about **Software Engineering, Backend development, Laravel**
 
 <h3 align="left">Connect with me:</h3>
