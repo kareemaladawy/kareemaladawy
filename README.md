@@ -4,7 +4,7 @@ specializing in queue-driven pipelines, real-time features, payments and third-p
 multi-channel e-commerce sync platform serving 30+ paying merchants and 10K+ webhooks per day. Seeking a remote mid-senior
 backend role at a SaaS or fintech company.</p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me on LinkedIn:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/kareemaladawy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kareemaladawy" height="30" width="40" /></a>
 </p>
